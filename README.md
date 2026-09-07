@@ -13,10 +13,12 @@ C# ve WPF teknolojileri ile geliştirilmiş; modern, şık ve son derece premium
 
 ## 📸 Ekran Görüntüleri
 
-![Ana Sayfa (Koyu Tema)](<img width="900" height="580" alt="image" src="https://github.com/user-attachments/assets/f643d755-17d3-4082-923f-f1c65863fa94" />
-)
-![Ayarlar (Açık Tema)](<img width="900" height="580" alt="image" src="https://github.com/user-attachments/assets/c9a1a464-9005-4bff-9f3b-c84026d00b04" />
-)
+![Ana Sayfa (Koyu Tema)]
+<img width="900" height="580" alt="image" src="https://github.com/user-attachments/assets/f643d755-17d3-4082-923f-f1c65863fa94" />
+
+![Ayarlar (Açık Tema)]
+<img width="900" height="580" alt="image" src="https://github.com/user-attachments/assets/c9a1a464-9005-4bff-9f3b-c84026d00b04" />
+
 
 
 
