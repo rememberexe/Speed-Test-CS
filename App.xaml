@@ -1,0 +1,15 @@
+﻿<Application x:Class="SpeedTestCS.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Dictionaries/Theme.Dark.xaml"/>
+                <ResourceDictionary Source="Dictionaries/StringResources.tr.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <!-- Modern ScrollBar ve Buton stillerini global olarak ekleyebilirsin, biz sadelik için elementlerde tanımladık -->
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,16 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="StrHome">Ana Sayfa</system:String>
+    <system:String x:Key="StrSettings">Ayarlar</system:String>
+    <system:String x:Key="StrStartTest">TESTİ BAŞLAT</system:String>
+    <system:String x:Key="StrTesting">Test Ediliyor...</system:String>
+    <system:String x:Key="StrPing">Gecikme (Ping)</system:String>
+    <system:String x:Key="StrDownload">İndirme (Download)</system:String>
+    <system:String x:Key="StrUpload">Yükleme (Upload)</system:String>
+    <system:String x:Key="StrLanguage">Dil Seçimi</system:String>
+    <system:String x:Key="StrTheme">Tema Seçimi</system:String>
+    <system:String x:Key="StrDark">Koyu Tema</system:String>
+    <system:String x:Key="StrLight">Açık Tema</system:String>
+    <system:String x:Key="StrAppName">Speed Test CS</system:String>
+</ResourceDictionary>

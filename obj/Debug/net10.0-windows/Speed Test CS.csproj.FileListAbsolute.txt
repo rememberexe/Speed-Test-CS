@@ -1,0 +1,25 @@
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\bin\Debug\net10.0-windows\Speed Test CS.exe
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\bin\Debug\net10.0-windows\Speed Test CS.deps.json
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\bin\Debug\net10.0-windows\Speed Test CS.runtimeconfig.json
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\bin\Debug\net10.0-windows\Speed Test CS.dll
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\bin\Debug\net10.0-windows\Speed Test CS.pdb
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Dictionaries\StringResources.en.baml
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Dictionaries\StringResources.tr.baml
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Dictionaries\Theme.Dark.baml
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Dictionaries\Theme.Light.baml
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\App.baml
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Speed Test CS_MarkupCompile.cache
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Speed Test CS.g.resources
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Speed Test CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Speed Test CS.AssemblyInfoInputs.cache
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Speed Test CS.AssemblyInfo.cs
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Speed Test CS.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Speed Test CS.dll
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\refint\Speed Test CS.dll
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Speed Test CS.pdb
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Speed Test CS.genruntimeconfig.cache
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\ref\Speed Test CS.dll
+C:\Users\yusuf\Desktop\Masaüstü\C#\Kaynak_Kodları\Speed Test CS\Speed Test CS\obj\Debug\net10.0-windows\Speed Test CS_Content.g.cs
